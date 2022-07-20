@@ -1,1 +1,3 @@
 # Code-Refractor
+The code is meant to meet the standards of the client which is Horiseon. The codebase follows accessibility standards so that the site is optimized for search engines. The code is meant to have the right semantic HTML elements. The structure of the code follows a logical structure independent of styling and positioning. The heading attributes fall in sequential order. Website link: https://samconteh.github.io/Horiseon-Website/Code-Refractor-main/Develop/index.html
+![challenge 1 pic](https://user-images.githubusercontent.com/109471583/180095358-cfba1386-6a32-4028-97a5-24d358bc4480.png)
